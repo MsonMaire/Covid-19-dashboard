@@ -9,7 +9,7 @@ The dataset used is `covid_19_clean_complete.csv`, sourced from [Kaggle](https:/
 ## Tools & Technologies
 - **SQL** (for data cleaning and aggregation)
 - **Python** (for data manipulation and visualization)
-- **Plotly** and **Dash** (for creating interactive visualizations and dashboards)
+- **Plotly** (for creating interactive visualizations and dashboards)
 - **Google Colab** (for running the project in a cloud environment)
 
 ## Project Steps
